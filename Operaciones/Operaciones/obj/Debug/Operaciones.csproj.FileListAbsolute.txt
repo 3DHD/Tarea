@@ -1,0 +1,9 @@
+c:\users\danie\onedrive\documentos\visual studio 2015\Projects\Operaciones\Operaciones\bin\Debug\Operaciones.exe.config
+c:\users\danie\onedrive\documentos\visual studio 2015\Projects\Operaciones\Operaciones\bin\Debug\Operaciones.exe
+c:\users\danie\onedrive\documentos\visual studio 2015\Projects\Operaciones\Operaciones\bin\Debug\Operaciones.pdb
+c:\users\danie\onedrive\documentos\visual studio 2015\Projects\Operaciones\Operaciones\obj\Debug\Operaciones.csprojResolveAssemblyReference.cache
+c:\users\danie\onedrive\documentos\visual studio 2015\Projects\Operaciones\Operaciones\obj\Debug\Operaciones.Form1.resources
+c:\users\danie\onedrive\documentos\visual studio 2015\Projects\Operaciones\Operaciones\obj\Debug\Operaciones.Properties.Resources.resources
+c:\users\danie\onedrive\documentos\visual studio 2015\Projects\Operaciones\Operaciones\obj\Debug\Operaciones.csproj.GenerateResource.Cache
+c:\users\danie\onedrive\documentos\visual studio 2015\Projects\Operaciones\Operaciones\obj\Debug\Operaciones.exe
+c:\users\danie\onedrive\documentos\visual studio 2015\Projects\Operaciones\Operaciones\obj\Debug\Operaciones.pdb
