@@ -1,0 +1,18 @@
+c:\users\lab3\documents\visual studio 2013\Projects\AplicacionEventos\AplicacionEventos\bin\Debug\AplicacionEventos.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\AplicacionEventos\AplicacionEventos\bin\Debug\AplicacionEventos.exe
+c:\users\lab3\documents\visual studio 2013\Projects\AplicacionEventos\AplicacionEventos\bin\Debug\AplicacionEventos.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\AplicacionEventos\AplicacionEventos\obj\Debug\AplicacionEventos.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\AplicacionEventos\AplicacionEventos\obj\Debug\AplicacionEventos.Form1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\AplicacionEventos\AplicacionEventos\obj\Debug\AplicacionEventos.Properties.Resources.resources
+c:\users\lab3\documents\visual studio 2013\Projects\AplicacionEventos\AplicacionEventos\obj\Debug\AplicacionEventos.csproj.GenerateResource.Cache
+c:\users\lab3\documents\visual studio 2013\Projects\AplicacionEventos\AplicacionEventos\obj\Debug\AplicacionEventos.exe
+c:\users\lab3\documents\visual studio 2013\Projects\AplicacionEventos\AplicacionEventos\obj\Debug\AplicacionEventos.pdb
+C:\Users\danie\OneDrive\Desktop\Progra1\jueves 28-03-19\AplicacionEventos\AplicacionEventos\bin\Debug\AplicacionEventos.exe.config
+C:\Users\danie\OneDrive\Desktop\Progra1\jueves 28-03-19\AplicacionEventos\AplicacionEventos\obj\Debug\AplicacionEventos.exe
+C:\Users\danie\OneDrive\Desktop\Progra1\jueves 28-03-19\AplicacionEventos\AplicacionEventos\obj\Debug\AplicacionEventos.pdb
+C:\Users\danie\OneDrive\Desktop\Progra1\jueves 28-03-19\AplicacionEventos\AplicacionEventos\bin\Debug\AplicacionEventos.exe
+C:\Users\danie\OneDrive\Desktop\Progra1\jueves 28-03-19\AplicacionEventos\AplicacionEventos\bin\Debug\AplicacionEventos.pdb
+C:\Users\danie\OneDrive\Desktop\Progra1\jueves 28-03-19\AplicacionEventos\AplicacionEventos\obj\Debug\AplicacionEventos.csprojResolveAssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\Progra1\jueves 28-03-19\AplicacionEventos\AplicacionEventos\obj\Debug\AplicacionEventos.Form1.resources
+C:\Users\danie\OneDrive\Desktop\Progra1\jueves 28-03-19\AplicacionEventos\AplicacionEventos\obj\Debug\AplicacionEventos.Properties.Resources.resources
+C:\Users\danie\OneDrive\Desktop\Progra1\jueves 28-03-19\AplicacionEventos\AplicacionEventos\obj\Debug\AplicacionEventos.csproj.GenerateResource.Cache
