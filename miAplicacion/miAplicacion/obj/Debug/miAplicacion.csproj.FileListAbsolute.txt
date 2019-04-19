@@ -1,0 +1,36 @@
+c:\users\lab3\documents\visual studio 2013\Projects\miAplicacion\miAplicacion\bin\Debug\miAplicacion.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\miAplicacion\miAplicacion\obj\Debug\miAplicacion.Form1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\miAplicacion\miAplicacion\obj\Debug\miAplicacion.MDIParent1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\miAplicacion\miAplicacion\obj\Debug\miAplicacion.Properties.Resources.resources
+c:\users\lab3\documents\visual studio 2013\Projects\miAplicacion\miAplicacion\obj\Debug\miAplicacion.csproj.GenerateResource.Cache
+c:\users\lab3\documents\visual studio 2013\Projects\miAplicacion\miAplicacion\bin\Debug\miAplicacion.exe
+c:\users\lab3\documents\visual studio 2013\Projects\miAplicacion\miAplicacion\bin\Debug\miAplicacion.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\miAplicacion\miAplicacion\obj\Debug\miAplicacion.exe
+c:\users\lab3\documents\visual studio 2013\Projects\miAplicacion\miAplicacion\obj\Debug\miAplicacion.pdb
+C:\Users\danie\OneDrive\Desktop\jueves 11-04-19\miAplicacion\miAplicacion\bin\Debug\miAplicacion.exe.config
+C:\Users\danie\OneDrive\Desktop\jueves 11-04-19\miAplicacion\miAplicacion\obj\Debug\miAplicacion.exe
+C:\Users\danie\OneDrive\Desktop\jueves 11-04-19\miAplicacion\miAplicacion\obj\Debug\miAplicacion.pdb
+C:\Users\danie\OneDrive\Desktop\jueves 11-04-19\miAplicacion\miAplicacion\bin\Debug\miAplicacion.exe
+C:\Users\danie\OneDrive\Desktop\jueves 11-04-19\miAplicacion\miAplicacion\bin\Debug\miAplicacion.pdb
+C:\Users\danie\OneDrive\Desktop\jueves 11-04-19\miAplicacion\miAplicacion\obj\Debug\miAplicacion.csprojResolveAssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\jueves 11-04-19\miAplicacion\miAplicacion\obj\Debug\miAplicacion.Form1.resources
+C:\Users\danie\OneDrive\Desktop\jueves 11-04-19\miAplicacion\miAplicacion\obj\Debug\miAplicacion.MDIParent1.resources
+C:\Users\danie\OneDrive\Desktop\jueves 11-04-19\miAplicacion\miAplicacion\obj\Debug\miAplicacion.Properties.Resources.resources
+C:\Users\danie\OneDrive\Desktop\jueves 11-04-19\miAplicacion\miAplicacion\obj\Debug\miAplicacion.csproj.GenerateResource.Cache
+C:\Users\danie\OneDrive\Desktop\Progra1\jueves 11-04-19\miAplicacion\miAplicacion\bin\Debug\miAplicacion.exe.config
+C:\Users\danie\OneDrive\Desktop\Progra1\jueves 11-04-19\miAplicacion\miAplicacion\obj\Debug\miAplicacion.exe
+C:\Users\danie\OneDrive\Desktop\Progra1\jueves 11-04-19\miAplicacion\miAplicacion\obj\Debug\miAplicacion.pdb
+C:\Users\danie\OneDrive\Desktop\Progra1\jueves 11-04-19\miAplicacion\miAplicacion\bin\Debug\miAplicacion.exe
+C:\Users\danie\OneDrive\Desktop\Progra1\jueves 11-04-19\miAplicacion\miAplicacion\bin\Debug\miAplicacion.pdb
+C:\Users\danie\OneDrive\Desktop\Progra1\jueves 11-04-19\miAplicacion\miAplicacion\obj\Debug\miAplicacion.csprojResolveAssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\Progra1\jueves 11-04-19\miAplicacion\miAplicacion\obj\Debug\miAplicacion.Form1.resources
+C:\Users\danie\OneDrive\Desktop\Progra1\jueves 11-04-19\miAplicacion\miAplicacion\obj\Debug\miAplicacion.MDIParent1.resources
+C:\Users\danie\OneDrive\Desktop\Progra1\jueves 11-04-19\miAplicacion\miAplicacion\obj\Debug\miAplicacion.Properties.Resources.resources
+C:\Users\danie\OneDrive\Desktop\Progra1\jueves 11-04-19\miAplicacion\miAplicacion\obj\Debug\miAplicacion.csproj.GenerateResource.Cache
+C:\Users\danie\OneDrive\Desktop\Progra1\jueves 11-04-19\miAplicacion\miAplicacion\obj\Debug\miAplicacion.Form2.resources
+C:\Users\danie\OneDrive\Desktop\Progra1\jueves 11-04-19\miAplicacion\miAplicacion\obj\Debug\miAplicacion.Form3.resources
+C:\Users\danie\OneDrive\Desktop\Progra1\jueves 11-04-19\miAplicacion\miAplicacion\obj\Debug\miAplicacion.Form4.resources
+C:\Users\danie\OneDrive\Desktop\Progra1\jueves 11-04-19\miAplicacion\miAplicacion\obj\Debug\miAplicacion.Form4_1.resources
+C:\Users\danie\OneDrive\Desktop\Progra1\jueves 11-04-19\miAplicacion\miAplicacion\obj\Debug\miAplicacion.Form6.resources
+C:\Users\danie\OneDrive\Desktop\Progra1\jueves 11-04-19\miAplicacion\miAplicacion\obj\Debug\miAplicacion.Form7.resources
+C:\Users\danie\OneDrive\Desktop\Progra1\jueves 11-04-19\miAplicacion\miAplicacion\obj\Debug\miAplicacion.Form8.resources
