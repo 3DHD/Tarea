@@ -1,0 +1,13 @@
+c:\users\lab3\documents\visual studio 2013\Projects\Factura\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\Factura\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+c:\users\lab3\documents\visual studio 2013\Projects\Factura\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\Factura\CapaPresentacion\bin\Debug\capaNego.dll
+c:\users\lab3\documents\visual studio 2013\Projects\Factura\CapaPresentacion\bin\Debug\capaData.dll
+c:\users\lab3\documents\visual studio 2013\Projects\Factura\CapaPresentacion\bin\Debug\capaNego.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\Factura\CapaPresentacion\bin\Debug\capaData.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\Factura\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\Factura\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\Factura\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+c:\users\lab3\documents\visual studio 2013\Projects\Factura\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+c:\users\lab3\documents\visual studio 2013\Projects\Factura\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+c:\users\lab3\documents\visual studio 2013\Projects\Factura\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

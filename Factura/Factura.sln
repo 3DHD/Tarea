@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "capaNego", "capaNego\capaNego.csproj", "{ADB15CBF-95B7-4824-84D2-D89971A3DAF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "capaData", "capaData\capaData.csproj", "{DA8462ED-3DBE-4796-9C9D-94363CA92703}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaPresentacion", "CapaPresentacion\CapaPresentacion.csproj", "{BB195E0E-BB2A-4125-B931-15F2FB1734FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADB15CBF-95B7-4824-84D2-D89971A3DAF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB15CBF-95B7-4824-84D2-D89971A3DAF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB15CBF-95B7-4824-84D2-D89971A3DAF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB15CBF-95B7-4824-84D2-D89971A3DAF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA8462ED-3DBE-4796-9C9D-94363CA92703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8462ED-3DBE-4796-9C9D-94363CA92703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8462ED-3DBE-4796-9C9D-94363CA92703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8462ED-3DBE-4796-9C9D-94363CA92703}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB195E0E-BB2A-4125-B931-15F2FB1734FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB195E0E-BB2A-4125-B931-15F2FB1734FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB195E0E-BB2A-4125-B931-15F2FB1734FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB195E0E-BB2A-4125-B931-15F2FB1734FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

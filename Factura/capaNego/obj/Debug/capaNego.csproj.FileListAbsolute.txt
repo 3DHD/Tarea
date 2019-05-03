@@ -1,0 +1,7 @@
+c:\users\lab3\documents\visual studio 2013\Projects\Factura\capaNego\bin\Debug\capaNego.dll
+c:\users\lab3\documents\visual studio 2013\Projects\Factura\capaNego\bin\Debug\capaNego.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\Factura\capaNego\bin\Debug\capaData.dll
+c:\users\lab3\documents\visual studio 2013\Projects\Factura\capaNego\bin\Debug\capaData.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\Factura\capaNego\obj\Debug\capaNego.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\Factura\capaNego\obj\Debug\capaNego.dll
+c:\users\lab3\documents\visual studio 2013\Projects\Factura\capaNego\obj\Debug\capaNego.pdb

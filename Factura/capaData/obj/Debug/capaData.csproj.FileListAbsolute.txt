@@ -1,0 +1,5 @@
+c:\users\lab3\documents\visual studio 2013\Projects\Factura\capaData\bin\Debug\capaData.dll
+c:\users\lab3\documents\visual studio 2013\Projects\Factura\capaData\bin\Debug\capaData.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\Factura\capaData\obj\Debug\capaData.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\Factura\capaData\obj\Debug\capaData.dll
+c:\users\lab3\documents\visual studio 2013\Projects\Factura\capaData\obj\Debug\capaData.pdb
